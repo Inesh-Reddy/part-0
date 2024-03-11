@@ -9,4 +9,4 @@ sequenceDiagram
     server-->>browser: 201 Created
     deactivate server
 
-    ![alt text](<Screenshot 2024-03-11 at 10.28.37 AM.png>)
+![alt text](<Screenshot 2024-03-11 at 10.28.37 AM.png>)
